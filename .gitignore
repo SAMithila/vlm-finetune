@@ -1,0 +1,6 @@
+data/
+wandb/
+outputs/
+.env
+__pycache__/
+*.safetensors
